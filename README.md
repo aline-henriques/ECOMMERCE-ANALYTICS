@@ -96,6 +96,8 @@ pandoc reports/relatorio_analitico_olist.md -o reports/relatorio_analitico_olist
 
 > O relatório completo inclui análise descritiva, inferência estatística, gráficos, KPIs e insights de negócio.
 
+📥 [**Clique aqui para acessar os Slides de Apresentação no CANVA**](https://www.canva.com/design/DAG5p80r4zg/Zs5892OdcOFb5DqkJ92TjQ/edit?utm_content=DAG5p80r4zg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
 ---
 
 ## 👩‍💻 Equipe
