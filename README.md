@@ -92,7 +92,7 @@ pandoc reports/relatorio_analitico_olist.md -o reports/relatorio_analitico_olist
 
 ## 📄 Relatório Completo
 
-📥 [**Clique aqui para abrir o relatório em PDF**](reports/relatorio_analitico_olist.pdf)
+📥 [**Clique aqui para abrir o relatório em PDF**](https://github.com/aline-henriques/ECOMMERCE-ANALYTICS/blob/4702b7506a4cacafa23c26f6873621c9eae714fc/%F0%9F%A7%BERelat%C3%B3rio%20Anal%C3%ADtico%20%E2%80%94%20Ecommerce%20Brasileiro%20(Olist).pdf)
 
 > O relatório completo inclui análise descritiva, inferência estatística, gráficos, KPIs e insights de negócio.
 
